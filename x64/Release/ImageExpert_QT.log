@@ -1,0 +1,51 @@
+﻿  Moc'ing FileAssistant.h...
+  Moc'ing cimagelabel.h...
+  Moc'ing mainwindow.h...
+  Uic'ing FileAssistant.ui...
+F:\GitRepository\ImageExpert\ImageExpert_QT\FileAssistant.ui : warning : The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget1'.
+F:\GitRepository\ImageExpert\ImageExpert_QT\FileAssistant.ui : warning : The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget2'.
+  Uic'ing mainwindow.ui...
+  Rcc'ing resource.qrc...
+  FileAssistant.cpp
+  cimagelabel.cpp
+  cimageprocessing.cpp
+f:\gitrepository\imageexpert\imageexpert_qt\cimageprocessing.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+f:\gitrepository\imageexpert\imageexpert_qt\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\gitrepository\imageexpert\imageexpert_qt\systemconfigs.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mainwindow.cpp
+mainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\gitrepository\imageexpert\imageexpert_qt\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\gitrepository\imageexpert\imageexpert_qt\systemconfigs.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+mainwindow.cpp(285): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+mainwindow.cpp(294): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  moc_cimagelabel.cpp
+  moc_FileAssistant.cpp
+  moc_mainwindow.cpp
+f:\gitrepository\imageexpert\imageexpert_qt\release\../mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\_SDKToolkits\OpenCV\opencv320\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\gitrepository\imageexpert\imageexpert_qt\systemconfigs.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  systemconfigs.cpp
+f:\gitrepository\imageexpert\imageexpert_qt\systemconfigs.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  qrc_resource.cpp
+  ImageExpert_QT.vcxproj -> F:\GitRepository\ImageExpert\ImageExpert_QT\release\ImageExpert.exe

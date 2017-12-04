@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qm">
+        <file alias="cn">languageCN.qm</file>
+        <file alias="en">languageEN.qm</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>imgs/save.png</file>
+        <file>imgs/open.png</file>
+    </qresource>
+</RCC>
